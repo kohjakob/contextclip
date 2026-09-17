@@ -4,6 +4,12 @@ Menu bar app for macOS: press a hotkey, drag a rectangle over anything on screen
 in it lands on your clipboard. Recognition runs on device through Apple's Vision framework, so
 nothing leaves your Mac.
 
+
+
+https://github.com/user-attachments/assets/d3110b31-89f5-4bd9-b348-dd1590069b10
+
+
+
 ## Features
 
 - Global hotkey (default `⇧⌘X`), changeable from Settings by pressing the new combination
