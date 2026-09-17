@@ -63,3 +63,7 @@ generated from `project.yml` and is not checked in.
 
 The app icon is the menu bar symbol on a white rounded square. `make icon` re-renders every size
 into `Resources/Assets.xcassets` from `Scripts/make-icon.swift`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
